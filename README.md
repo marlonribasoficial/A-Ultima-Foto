@@ -3,7 +3,6 @@
 ![Status](https://img.shields.io/badge/status-concluído-EC4899?style=for-the-badge)
 ![Engine](https://img.shields.io/badge/Engine-Godot-EC4899?style=for-the-badge&logo=godot-engine)
 ![Platform](https://img.shields.io/badge/Platform-macOS-EC4899?style=for-the-badge&logo=apple)
-![Genre](https://img.shields.io/badge/Genre-Escape%20Room-EC4899?style=for-the-badge)
 
 ---
 
