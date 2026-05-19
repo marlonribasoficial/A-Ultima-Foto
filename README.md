@@ -8,7 +8,7 @@
 
 ## 🎮 Sobre o Jogo
 
-**A Última Foto** é um jogo de *escape room* 3D desenvolvido para **MacBook**, que combina puzzles 2D integrados ao ambiente com exploração em primeira pessoa.
+**A Última Foto** é um jogo de *point & click* 3D desenvolvido para **MacBook**, que combina puzzles 2D integrados ao ambiente com exploração em primeira pessoa.
 
 Com um estilo semi-realista e forte foco em **atmosfera** e **raciocínio lógico**, o jogo se passa em um cenário tipicamente brasileiro: um aniversário dos anos 2000, repleto de elementos nostálgicos que ajudam a construir a narrativa e os desafios.
 
