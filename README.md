@@ -6,11 +6,7 @@
 
 Conheça a página oficial do "A Última Foto", criada para apresentar a proposta do jogo, sua ambientação e principais características.
 
-<div align="center">
-
 [![Website](https://img.shields.io/badge/Acessar%20Landing%20Page-EC4899?style=for-the-badge&logo=google-chrome&logoColor=white)](https://marlonribasoficial.github.io/a-ultima-foto-demo/)
-
-</div>
 
 ---
 
